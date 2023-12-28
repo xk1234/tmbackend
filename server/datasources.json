@@ -1,0 +1,12 @@
+{
+  "pgres": {
+    "host": "localhost",
+    "port": 5432,
+    "url": "postgresql://postgres:1234@localhost:5432/postgres",
+    "database": "postgres",
+    "password": "1234",
+    "name": "pgres",
+    "user": "postgres",
+    "connector": "postgresql"
+  }
+}
